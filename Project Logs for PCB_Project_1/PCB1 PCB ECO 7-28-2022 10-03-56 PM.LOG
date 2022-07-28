@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PA_1 Pin=Analog 2-3
+Added Pin To Net: NetName=PA_0 Pin=Analog 2-3
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Analog 1 B3B-XH-AM_LF__SN_
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Analog 2 B3B-XH-AM_LF__SN_
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Encoder_Int1 Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Encoder_Int2 Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Fuse C3131
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component I2C B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component led LED 5mm
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Motor_A Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Motor_B Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Motor_C Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Motor_D Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Motor_E Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Nucleo Shield Nucleo F446RE/F401RE no Pinout
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Pneumatic Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component Power KF301-2P
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component R1 Resistor 0.25W
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component SPI Header ISP
+Added Member To Class: ClassName=Schematic Tugas 1_Magang 2 Member=Component UART B4B-XH-A_LF__SN_
